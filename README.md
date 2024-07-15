@@ -1,6 +1,6 @@
 # Welcome to My GitHub Profile 👋
 
-I'm a seasoned Full Stack Developer with over 5+ years of hands-on experience in building cutting-edge applications and solutions. My passion lies in creating dynamic and user-friendly web products by leveraging a wide array of technologies and programming languages. I'm actively seeking challenging opportunities in the field of Full-stack Development.
+I'm a seasoned Full Stack Developer with over 4+ years of hands-on experience in building cutting-edge applications and solutions. My passion lies in creating dynamic and user-friendly web products by leveraging a wide array of technologies and programming languages. I'm actively seeking challenging opportunities in the field of Full-stack Development.
 
 ## About Me
 Experienced software engineer with a track record specializing in JavaScript and its prominent frameworks, including Angular along with Node.js, Express.js, MongoDB, and MySQL—proven expertise in developing dynamic and responsive applications, leveraging a solid foundation in modern web technologies. Also, have working knowledge of Python. I possess experience in overseeing significant software launches, emphasizing time management and transparent communication. Apart from technical aspects, effectively conveying issues, obstacles, and innovative options to diverse team members has significantly contributed to my professional growth.
@@ -27,34 +27,54 @@ Experienced software engineer with a track record specializing in JavaScript and
 
 ## Projects 🚀
 ### [PKG Health](http://test.gkcweb.com/A/#/auth/login)
-Enhanced the user experience and interface of the PKG® system, enabling precise monitoring and reporting of movement patterns in neurological diseases. Deployed serverless functions on AWS Lambda.
+- **Role:** Angular & Python Developer
+- **Technologies Used:** Angular, Python, AWS Lambda
+- **Description:** Enhanced the user experience and interface of the PKG® system, enabling precise monitoring and reporting of movement patterns in neurological diseases. Deployed serverless functions on AWS Lambda to optimize backend processes.
 
 ### [WINC](https://winc.beyondgenai.co/)
-Designed and developed robust APIs for project and billboard management, ensuring secure and efficient data handling. Enhanced system performance and scalability.
+- **Role:** Backend Developer
+- **Technologies Used:** Python, FastAPI
+- **Description:** Designed and developed robust APIs for project and billboard management, ensuring secure and efficient data handling. Enhanced system performance and scalability to handle a large volume of data and concurrent users.
 
 ### [Radiologica](https://radiologica.org/)
-Contributed to the development of a modernized portal for radiology education and practice. Managed complex MRI image uploads and implemented features like informative reports and benchmarking tools.
+- **Role:** Full Stack Developer
+- **Technologies Used:** Angular, Node.js, Express.js, MySQL, AWS S3
+- **Description:** Contributed to the development of a modernized portal for radiology education and practice. Managed complex MRI image uploads and implemented features like informative reports and benchmarking tools.
 
 ### [Elhusseiny USMLE Prep](https://dashboard.elhusseinyusmleprep.com/)
-Contributed significantly as a full-stack developer to create a seamless learning experience. Led the development of detailed explanations, personalized insights, and course management functionalities.
+- **Role:** Full Stack Developer
+- **Technologies Used:** Angular, Node.js, Express.js, MySQL
+- **Description:** Developed a comprehensive e-learning platform for medical students. Led the development of detailed explanations, personalized insights, and course management functionalities, enhancing user engagement and satisfaction.
 
-### [MID System](#)
-Made a website to diagnose brain tumor and breast cancer using AI. Created Patient, Doctor, and Admin Portals using ReactJS.
+### MID System
+- **Role:** Full Stack Developer
+- **Technologies Used:** ReactJS, Python
+- **Description:** Developed a website to diagnose brain tumor and breast cancer using AI. Created Patient, Doctor, and Admin Portals using ReactJS for a seamless user experience.
 
 ### [Techveria Site](http://techveria.com/)
-Designed a new website for Techveria Software house.
+- **Role:** WordPress Developer
+- **Technologies Used:** WordPress
+- **Description:** Designed and developed a new website for Techveria Software house to enhance their online presence.
 
 ### [Food Bound](https://food-bound.netlify.app/)
-Made a landing page for a new Startup.
+- **Role:** Frontend Developer
+- **Technologies Used:** HTML, CSS
+- **Description:** Created a landing page for a new startup, focusing on clean design and responsiveness.
 
 ### [Find Food Recipe](https://findfoodrecipe.netlify.app/)
-A website where you can search for any food recipe.
+- **Role:** Frontend Developer
+- **Technologies Used:** ReactJS
+- **Description:** Developed a website where users can search for various food recipes, implementing features for easy navigation and search.
 
 ### [SMComunications](http://sm-comunications.com/)
-Built an e-commerce site using WooCommerce that sells mobile accessories all over Pakistan.
+- **Role:** WordPress Developer
+- **Technologies Used:** WordPress, WooCommerce
+- **Description:** Built an e-commerce site using WooCommerce that sells mobile accessories all over Pakistan, ensuring a smooth shopping experience.
 
 ### [Tour Heroes](http://tourheros.com/)
-Built a website that helps people find destinations and plan their trips all over Pakistan.
+- **Role:** WordPress Developer
+- **Technologies Used:** WordPress
+- **Description:** Developed a website that helps people find destinations and plan their trips all over Pakistan, featuring detailed travel guides and tips.
 
 ## Education 🎓
 **BS Software Engineering**  
