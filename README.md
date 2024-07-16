@@ -1,6 +1,6 @@
 # Welcome to My GitHub Profile 👋
 
-I'm a seasoned Full Stack Developer with over 4+ years of hands-on experience in building cutting-edge applications and solutions. My passion lies in creating dynamic and user-friendly web products by leveraging a wide array of technologies and programming languages. I'm actively seeking challenging opportunities in the field of Full-stack Development.
+I'm a seasoned Full Stack Developer with over 5+ years of hands-on experience in building cutting-edge applications and solutions. My passion lies in creating dynamic and user-friendly web products by leveraging a wide array of technologies and programming languages. I'm actively seeking challenging opportunities in the field of Full-stack Development.
 
 ## About Me
 Experienced software engineer with a track record specializing in JavaScript and its prominent frameworks, including Angular along with Node.js, Express.js, MongoDB, and MySQL—proven expertise in developing dynamic and responsive applications, leveraging a solid foundation in modern web technologies. Also, have working knowledge of Python. I possess experience in overseeing significant software launches, emphasizing time management and transparent communication. Apart from technical aspects, effectively conveying issues, obstacles, and innovative options to diverse team members has significantly contributed to my professional growth.
