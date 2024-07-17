@@ -48,7 +48,7 @@ Experienced software engineer with a track record specializing in JavaScript and
 
 ### MID System
 - **Role:** Full Stack Developer
-- **Technologies Used:** ReactJS, Python
+- **Technologies Used:** ReactJS, NodeJS, Python
 - **Description:** Developed a website to diagnose brain tumor and breast cancer using AI. Created Patient, Doctor, and Admin Portals using ReactJS for a seamless user experience.
 
 ### [Techveria Site](http://techveria.com/)
