@@ -41,6 +41,11 @@ Experienced software engineer with a track record specializing in JavaScript and
 - **Technologies Used:** Angular, Node.js, Express.js, MySQL, AWS S3
 - **Description:** Contributed to the development of a modernized portal for radiology education and practice. Managed complex MRI image uploads and implemented features like informative reports and benchmarking tools.
 
+### [Pitch Ninjas](https://pitchninjas.com/)
+- **Role:** Full Stack Developer
+- **Technologies Used:** Angular, Node.js, Express.js, MySQL
+- **Description:** PitchNinjas offers 1:1 communication coaching. I developed the frontend with Angular, built the backend using Node.js, and managed the database with MySQL for smooth user experience and scheduling.
+
 ### [Elhusseiny USMLE Prep](https://dashboard.elhusseinyusmleprep.com/)
 - **Role:** Full Stack Developer
 - **Technologies Used:** Angular, Node.js, Express.js, MySQL
