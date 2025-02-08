@@ -15,7 +15,12 @@ Experienced software engineer with a track record specializing in JavaScript and
 *20/10/2022 – 01/08/2023, Islamabad, Pakistan*  
 - Worked as MEAN Stack developer and mainly worked on US-based project (TASC) and provided support to 3 other projects.
 
-**Full Stack Developer at SLOSH AI Solutions**  
+**Full Stack Developer / Team Lead at SLOSH AI Solutions**  
+*01/04/2020 – 19/10/2022, Islamabad, Pakistan*  
+- Managed team and assigned tasks to them. Managed project deadlines and sprints.
+- Worked on various projects including MID System, CXR_Thorax.
+
+  **Full Stack Developer at Pookidevs**  
 *01/04/2020 – 19/10/2022, Islamabad, Pakistan*  
 - Managed team and assigned tasks to them. Managed project deadlines and sprints.
 - Worked on various projects including Radiologica, Elhusseiny USMLE Prep, Pitch Ninjas, Digittorney, YourMedPass, and Technician Store.
@@ -36,19 +41,16 @@ Experienced software engineer with a track record specializing in JavaScript and
 - **Technologies Used:** Python, FastAPI
 - **Description:** Designed and developed robust APIs for project and billboard management, ensuring secure and efficient data handling. Enhanced system performance and scalability to handle a large volume of data and concurrent users.
 
-### [Radiologica](https://radiologica.org/)
+### [CXR_Thorax]
 - **Role:** Full Stack Developer
-- **Technologies Used:** Angular, Node.js, Express.js, MySQL, AWS S3
-- **Description:** Contributed to the development of a modernized portal for radiology education and practice. Managed complex MRI image uploads and implemented features like informative reports and benchmarking tools.
+- **Description:** Contributed to the development of a modernized portal for radiology practice. Managed complex MRI image uploads and implemented features like informative reports and benchmarking tools.
 
 ### [Pitch Ninjas](https://pitchninjas.com/)
 - **Role:** Full Stack Developer
-- **Technologies Used:** Angular, Node.js, Express.js, MySQL
-- **Description:** PitchNinjas offers 1:1 communication coaching. I developed the frontend with Angular, built the backend using Node.js, and managed the database with MySQL for smooth user experience and scheduling.
+- **Description:** Pitch Ninjas provides personalized 1:1 communication coaching. As a full-stack developer, I contributed to building the application, ensuring a seamless and user-friendly experience.
 
 ### [Elhusseiny USMLE Prep](https://dashboard.elhusseinyusmleprep.com/)
 - **Role:** Full Stack Developer
-- **Technologies Used:** Angular, Node.js, Express.js, MySQL
 - **Description:** Developed a comprehensive e-learning platform for medical students. Led the development of detailed explanations, personalized insights, and course management functionalities, enhancing user engagement and satisfaction.
 
 ### MID System
@@ -88,11 +90,11 @@ Experienced software engineer with a track record specializing in JavaScript and
 ## Skills 🛠️
 - **Frontend:** Angular, HTML, CSS, Bootstrap, JavaScript - JQuery
 - **Backend:** Node.js, Express.js, Python, FastAPI, Serverless Functions
-- **Databases:** MySQL, MongoDB
+- **Databases:** MySQL, PostgreSQL, MongoDB
 - **Cloud:** AWS (S3, Lambda)
 - **Other:** Git, Jenkins, Jira, Bitbucket, Web Scrappers, D3.js, Charts.js
 
 ## Let's Connect 🌐
 - 📧 [Email](mailto:umarnazaket@gmail.com)
-- 📱 [WhatsApp](https://wa.me/+923114456662)
+- 📱 [WhatsApp](https://wa.me/+923094456662)
 - [LinkedIn](https://www.linkedin.com/in/umarnazaket/)
