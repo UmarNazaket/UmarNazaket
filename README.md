@@ -20,7 +20,7 @@ Experienced software engineer with a track record specializing in JavaScript and
 - Managed team and assigned tasks to them. Managed project deadlines and sprints.
 - Worked on various projects including MID System, CXR_Thorax.
 
-  **Full Stack Developer at Pookidevs**  
+**Full Stack Developer at Pookidevs**  
 *01/04/2020 – 19/10/2022, Islamabad, Pakistan*  
 - Managed team and assigned tasks to them. Managed project deadlines and sprints.
 - Worked on various projects including Radiologica, Elhusseiny USMLE Prep, Pitch Ninjas, Digittorney, YourMedPass, and Technician Store.
