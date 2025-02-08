@@ -41,7 +41,7 @@ Experienced software engineer with a track record specializing in JavaScript and
 - **Technologies Used:** Python, FastAPI
 - **Description:** Designed and developed robust APIs for project and billboard management, ensuring secure and efficient data handling. Enhanced system performance and scalability to handle a large volume of data and concurrent users.
 
-### [CXR_Thorax]
+### CXR_Thorax
 - **Role:** Full Stack Developer
 - **Description:** Contributed to the development of a modernized portal for radiology practice. Managed complex MRI image uploads and implemented features like informative reports and benchmarking tools.
 
